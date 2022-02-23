@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Case of all the non-commionssi'd [sic] officers, viz. corporals trumpeters and kettle-drummers, and private horsemen of Colonel Theodore Russel's late regiment who, upon the breaking of the said regiment entered themselves into other regiments in His Majesties service and could never obtain their arrears in the said late regiment, being about 30 £. a man, or one penny thereof, when all the commission'd officers, and diver of the non commission'd officers and private horsemen, who then quitted His Majesty's service were fully paid off their arrears, by Lord Conigsby, or his deputy, &amp;c., without any deduction, and of Joseph Ducket, gent., whom the persons so unpaid, have imploy'd as their attorney or solictor, for obtaining their said arrears : together with some remarks on the pay-masters accounts &amp;c. : humbly represented to the Honourable House of Commons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A35600</idno>
+            <idno type="STC">Wing C878</idno>
+            <idno type="STC">ESTC R4006</idno>
+            <idno type="EEBO-CITATION">13677272</idno>
+            <idno type="OCLC">ocm 13677272</idno>
+            <idno type="VID">101252</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A35600)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101252)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 841:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Case of all the non-commionssi'd [sic] officers, viz. corporals trumpeters and kettle-drummers, and private horsemen of Colonel Theodore Russel's late regiment who, upon the breaking of the said regiment entered themselves into other regiments in His Majesties service and could never obtain their arrears in the said late regiment, being about 30 £. a man, or one penny thereof, when all the commission'd officers, and diver of the non commission'd officers and private horsemen, who then quitted His Majesty's service were fully paid off their arrears, by Lord Conigsby, or his deputy, &amp;c., without any deduction, and of Joseph Ducket, gent., whom the persons so unpaid, have imploy'd as their attorney or solictor, for obtaining their said arrears : together with some remarks on the pay-masters accounts &amp;c. : humbly represented to the Honourable House of Commons.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[England :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Date of publication from Wing.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101252:1" rendition="simple:additions"/>
+            <p>THE CASE OF ALL The Non-Commionſſr'd Officers, (Viz. <hi>Corporals, Trumpeters</hi> and <hi>Kettle-Drummers,</hi>) AND Private Horſemen OF Colonel <hi>Theodore Ruſſel</hi>'s late Regiment.</p>
+            <p>Who, upon the Breaking of the ſaid Regiment, en<g ref="char:EOLhyphen"/>tered themſelves into other Regiments, in His Majeſties Service, and could never obtain their Arrears in the ſaid late Regiment (being about 30 <abbr>
+                  <hi>l.</hi>
+               </abbr> a Man,) or One Penny thereof: When all the Commiſſion'd Officers, and divers of the Non Commiſſion'd Officers, and private Horſemen, who then quitted His Majeſty's Service, were fully paid off their Arrears, by the Lord <hi>Coningsby,</hi> or his Deputy, <hi>&amp;c.</hi> without any Deduction: And of <hi>Joſeph Ducket,</hi> Gent. whom the perſons ſo unpaid, have imploy'd as their At<g ref="char:EOLhyphen"/>torney or Solicitor, for obtaining their ſaid Arrears. To<g ref="char:EOLhyphen"/>gether with ſome Remarks on the Pay-Maſters Accounts, <hi>&amp;c.</hi>
+            </p>
+            <p>
+               <hi>Humbly Repreſented to the Honourable Houſe of</hi> Commons.</p>
+         </div>
+      </front>
+      <body>
+         <div type="case">
+            <pb n="2" facs="tcp:101252:2"/>
+            <head>The Caſe, &amp;c.</head>
+            <p>THE ſaid Regiment was firſt Commanded by the Lord <hi>Delamer,</hi> and about the begining of the late Wars in <hi>Ireland,</hi> was ſent over thither, and given to the ſaid Colonel <hi>Theodore Ruſſel</hi> (who then was, and ſtill is an Inhabitant of that Kingdom) and after the ſaid Regiment had ſerved in all, or moſt of the Battles there Fought, till the 20th of <hi>March,</hi> 1690. (whereby it was ſome<g ref="char:EOLhyphen"/>what reduc'd) it was then broken; the ſaid Non-commiſſion Officers and private Troopers, having receiv'd no Clearing, nor above 12 <abbr>l.</abbr> a man towards their Subſiſtance-Money, for the ſpace of 565 days.</p>
+            <p>Upon the breaking of the ſaid Regiments, the Soldiers now remain<g ref="char:EOLhyphen"/>ing unpaid, upon promiſes made them by Major-General <hi>Douglas,</hi> that they ſhould be duly Paid their Arrears, were encouraged to go into o<g ref="char:EOLhyphen"/>ther Regiments (where divers of them ſtill continue) but inſtead thereof the Lord <hi>Conningsby,</hi> who was then Paymaſter in <hi>Ireland,</hi> or his Deputy, <hi>Will. Robinſon,</hi> Eſq; paid all the Commiſſion'd-Officers of the ſaid Regiment then in <hi>Ireland,</hi> their full Arrears; and likewiſe many of the Non-commiſſion'd Officers, and private Horſe-men of the ſaid Re<g ref="char:EOLhyphen"/>giment, who then quitted his Majeſties Service; (and the ſaid Colonel, and the reſt of the Commiſſion'd-Officers of the ſaid Regiment, being in <hi>England,</hi> were afterwards in like manner paid off, the full of their Arrears and Demands, at Mr. <hi>Fox</hi>'s Office) without having any de<g ref="char:EOLhyphen"/>ductions made out of ſuch their Arrears, towards the publick Charges of the ſaid Regiment; which, as appears by the Paymaſters own Ac<g ref="char:EOLhyphen"/>counts, amount to near 10000 <abbr>l.</abbr> but no manner of care was taken to preſerve one penny for theſe honeſt loyal Men, who continued to haz<g ref="char:EOLhyphen"/>ard their Lives for the honour and ſervice of their King and Country, even to the entire Reducing of <hi>Ireland;</hi> being about 120 in Number, and having (one with another) near 30 <abbr>l.</abbr> a Man due to them for their Arrears in the ſaid Regiment.</p>
+            <pb n="3" facs="tcp:101252:2" rendition="simple:additions"/>
+            <p>When the Wars in <hi>Ireland</hi> were ended, the perſons ſo remaining un<g ref="char:EOLhyphen"/>paid, being tired with following the ſaid Col. and his Agent for their ſaid Arrears, applied themſelves to the ſaid <hi>Joſeph Ducket,</hi> importuning him to aſſiſt them towards getting their ſaid Arrears, and gave him a ſufficient Authority under their hands and ſeals for that purpoſe; whereupon he, together with divers of the ſaid Soldiers, ſeveral times attended the ſaid Col. <hi>Ruſſel,</hi> entreating him to give them his aſſiſtance therein, which he refuſed to do, and at length (to be rid of them) bid them apply them<g ref="char:EOLhyphen"/>ſeves to the ſaid Mr. <hi>Robinſon;</hi> which they accordingly did, and he kept them in hand a long time, but finding that they would not be tired out by fruitleſs Attendances, he then told them he could not pay them till they had taken out Copies of their Muſter-Rolls, to make it appear how long each of them had ſerved in the ſaid Regiment; and tho di<g ref="char:EOLhyphen"/>vers of them, (being then in Sir <hi>John Lanier</hi>'s Regiment, and juſt going to the Campaign in <hi>Flanders</hi>) moſt humbly beſought him but to let them have 30 or 40 <abbr>s.</abbr> a Man to buy them neceſſaries for the Campaign (which was not much above 12 <abbr>d.</abbr> in the pound of what is due to them) yet would not furniſh them with a Penny.</p>
+            <p>Upon this they procured the Muſter-Rolls to be ſent for out of <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> and at a conſiderable Expence, got copies of them, wherewith they again attended the ſaid Mr. <hi>Robinſon,</hi> who then told them he could not pay them without an order from Mr. <hi>Fox</hi> or the Lord <hi>Con<g ref="char:EOLhyphen"/>ningsby,</hi> and ſo ſent them to Mr. <hi>Fox</hi>'s Office; where (after having at<g ref="char:EOLhyphen"/>tended about as long as on the ſaid Mr. <hi>Robinſon</hi>) they were told, no Money could be paid without an Order from the King, or the Lords of the Treaſury.</p>
+            <p>Whereupon an humble Petition was preſented to her late Majeſty of bleſſed memory, which ſhe was graciouſly pleas'd to refer to the conſi<g ref="char:EOLhyphen"/>deration of the Lords of the Treaſury; but the King (who was then in <hi>Flanders</hi>) being return'd before any Proceedings could be had thereup<g ref="char:EOLhyphen"/>on, another Petition was humbly preſented to his Majeſty, which he was likewiſe graciouſly pleaſed to refer, as before; and the Lords of the Treaſury referred the ſame to Mr. <hi>Fox</hi> and the Lord <hi>Conningsby,</hi> to report what was fit to be done therein.</p>
+            <floatingText xml:lang="eng" type="report">
+               <body>
+                  <head>Mr. <hi>FOXs</hi> Report.</head>
+                  <p>Upon this, Mr. <hi>Fox</hi> made his Report in theſe words, <hi>viz. May it pleaſe your Lordſhips, Your Lordſhips having been pleaſed ſometime ſince to refer a Petition of ſeveral Non-commiſſioned Officers and Private Horſemen of Coll.</hi> Theodore Ruſſel's <hi>late Regiment, to the Lord</hi> Conningsby and my ſelf; we did then defer making any Report upon the ſame, until ſuch time as their Accounts ſhould be ſtated, either by the Coll. or his Agent, that we might have been able to have given your Lordſhips an exact Account
+<pb n="4" facs="tcp:101252:3"/>what had been due to them, but do not find they have yet done it, however are very preſſing for a Report, in order, as I ſuppoſe, to obtain ſome direct<g ref="char:EOLhyphen"/>ions from your Lordſhips, to oblige the Col. or their reſpective Captains to make up, and state their Accounts, which I am of opinion they ought not to refuſe, ſince at the breaking of the Regiment, all that quitted the Service were fully cleared; and it would ſeem very unequal if thoſe that Entred themſelves into other Regiments ſhould not have the ſame Juſtice done them; But I am withal to inform your Lordſhips, that whenever this is done, in order to the Paying of theſe Men, his Majesty muſt declare, whether the exceedings of the laſt Cloathing furniſhed them (over above what the Off-Reckonings would bear to the time of their being broke) ſhall ſtand charged on the Regiment: And whether the ſame allowances are to be made to them, as are given to the Regiments of Horſe, whoſe Accounts have lately been ſcated, otherwiſe the Accounts of the Regiment will not bear it; for as they now ſtand it is over paid. Which is humbly ſubmitted to your Lord<g ref="char:EOLhyphen"/>ſhips.</p>
+                  <closer>
+                     <signed>
+                        <hi>(Sign'd)</hi> Cha. Fox.</signed>
+                     <date>Octob. 13. 1693.</date>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>Which Petition, with the ſaid References and Report, being carried back to the Treaſury, do there remain; but no farther proceedings could ever ſince be obtain'd thereupon.</p>
+            <p>That one main Objection againſt theſe men being paid their ſaid Arrears, was, for that they had not got every man's particular Account ſtated by the ſaid Col. or his Agent, or the Captains of the ſaid Regi<g ref="char:EOLhyphen"/>ment, which may ſeem to be an inſuperable difficulty deſignedly put up<g ref="char:EOLhyphen"/>on theſe poor Soldiers, to make them for ever incapable of receiving their ſaid Arrears; for that the ſaid Col. and all the reſt of the Com<g ref="char:EOLhyphen"/>miſſion'd Officers of the ſaid Regiment, having (upon the breaking of the ſaid Regiment) received their full Pay without bearing any part of the ſaid Publick Charges of the Regiment, amounting to near 10000 <abbr>
+                  <hi>l.</hi>
+               </abbr> as aforeſaid (and ſo, in great part, ſhared and divided amongſt them<g ref="char:EOLhyphen"/>ſelves, that mony which ought to have been applied towards Paying the Soldiers, as well as them) 'as, in reaſon, it is not to be expected of them; ſo in fact, they have refuſed to aſſiſt the ſaid Soldiers in Stating their Accounts; which if they ſhould do, would detect themſelves and the ſaid Mr. <hi>Robinſon</hi> (or ſuch perſon or perſons who paid them the ſaid money) of their unfair Dealings, in reſpect of their unequal diſtributi<g ref="char:EOLhyphen"/>on and diſpoſal of the money paid by his Majeſty, for the uſe of the ſaid Regiment; and as for Mr. <hi>John Ruſſel,</hi> who was Agent of the ſaid Regiment; he is a near relation of the ſaid Col. and ſo much in his In<g ref="char:EOLhyphen"/>tereſt, and againſt having the ſaid Accounts ſtated, that tho one Mr. <hi>Harriſon</hi> (who is one of thoſe who continued in his Majeſties Service,
+<pb n="5" facs="tcp:101252:3" rendition="simple:additions"/>and is ſtill unpaid) after the Regiment was broke, applied himſelf to him, entreating him to ſtate his Accounts in order to the obtaining his ſaid Arrears, yet could he not prevail with him ſo to do, till he was forced (as he the ſaid Mr. <hi>Harriſon</hi> hath affirmed) to threaten the ſaid Agent to ſhoot him, and ſtood with his Kirbine over him, till he had ſtated ſuch his Account; and if the difficulty was ſo great, when the ſaid Soldiers were in <hi>Ireland,</hi> (where both the ſaid Col. and his Agent now are) to get one ſingle Man's Account Stated, what can be expect<g ref="char:EOLhyphen"/>ed of them at this Diſtance, in reſpect of all the men ſtill unpaid? Morcover, upon the breaking of the ſaid Regiment, all the ſaid Com<g ref="char:EOLhyphen"/>miſſion'd-Officers, as ſoon as they had got their own monies, diſperſed themſelves without taking any care of the ſaid Soldiers, or to adjuſt their Accounts.</p>
+            <p>That altho the ſaid <hi>Joſeph Ducket,</hi> in behalf of the ſaid Soldiers, hath often times urged theſe Reaſons to demonſtrate it to be almoſt morally impoſſible, to get every particular mans Account to be now ſtated by the ſaid Col. Capt. or Agent; and offered, by the help of the Pay<g ref="char:EOLhyphen"/>maſters own Accounts, and by the Copies of the Muſter-Rolls, and ſome particular Accounts (ſtated by the ſaid Agent) which he hath now by him, to demonſtrate what is due to every one of the ſaid Soldiers who are ſtill unpaid; yet would not the ſame be admitted of.</p>
+            <div type="remarks">
+               <head>Some Remarks on the Paymaſters Accounts.</head>
+               <p>That the ſaid Soldiers or their Sollicitor, ſurpriſed to ſee it Certified by Mr. <hi>Fox</hi>'s Report, that the ſaid Regiment is over-paid, did (with with ſome difficulty) obtain Copies of the ſaid Mr. <hi>Robinſon,</hi> of the Pay-maſters Accounts of the ſaid Regiment, as the ſame ſtand entred in their Book; whereby it appears that there is charged to the ſaid Regiment, for Proviſions and Hoſpital Charges 1297 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 3 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 2 <abbr>
+                     <hi>d.</hi>
+                  </abbr> For the charge of Ordnance, Tranſports and Recruit-horſes 1121 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 2 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> For Quarters in <hi>Ireland</hi> for the ſaid Regiment 2974 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> For mony paid to the ſaid Col. <hi>Ruſſel,</hi> on Account of Cloaths by him pro<g ref="char:EOLhyphen"/>vided for the ſaid Regiment 1200 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 7 <abbr>
+                     <hi>s.</hi>
+                  </abbr> For Reſpits (or Abſent men) 3129 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 18 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> And for 500 Sheep, and 40 Bullocks, ſeized by the Lieutenant Col. 140 <abbr>
+                     <hi>l.</hi>
+                  </abbr> Which Sums, ſo charged upon the ſaid Regiment amount together to the Sum of 9862 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 17 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4<abbr>
+                     <hi>d.</hi>
+                  </abbr>
+               </p>
+               <p>And it likewiſe appears by the ſaid Book of Accounts, that the Paymaſters or their Deputies, have ſince the breaking of the ſaid Re<g ref="char:EOLhyphen"/>giment, paid to the ſaid Col. and the reſt of the Commiſſion'd-Officers the ſum of 8044 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 13 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> in full of their Arrears; (which cannot be pretended by the Paymaſters, to have been paid to the ſaid Col. or the Captains for the uſe of the Regiment, and that they (without the know<g ref="char:EOLhyphen"/>ledg or conſent of the Paymaſters) kept it for their own uſe, and de<g ref="char:EOLhyphen"/>frauded the Soldiers of their ſhares thereof; for that it thereby plainly
+<pb n="6" facs="tcp:101252:4"/>appears to have been paid to the ſaid Officers, in full of their own Pay only; and how much of it was paid to the ſaid Coll. and every one of the ſaid Commiſſion'd-Officers reſpectively, is therein particularly ex<g ref="char:EOLhyphen"/>preſſed)</p>
+               <p>And that the ſaid Paymaſters, or their Deputy, or one of them, have or hath, ſince the breaking of the Regiment, alſo paid to divers of the Non-Commiſſion'd Officers and private Soldiers of the ſaid Regiment, (who then left his Majeſties Service) the ſum of 1248 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> for their Arrears in the ſaid Regiament, which ſaid Sums of 8044 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 13 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> ſo paid to the ſaid Commiſſion'd-Officers, and 1248 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 4<abbr>
+                     <hi>s.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>d.</hi>
+                  </abbr> ſo paid to the Non-Commiſſion'd Officers and private Soldiers, who quit<g ref="char:EOLhyphen"/>ted his Majeſties Service upon the breaking of the ſaid Regiment, a<g ref="char:EOLhyphen"/>mounting together to the Sum of 9292<abbr>
+                     <hi>l.</hi>
+                  </abbr> 17 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 10 <abbr>
+                     <hi>d.</hi>
+                  </abbr> were paid for ſuch their Arrears, without any deduction taken out of their ſaid Ar<g ref="char:EOLhyphen"/>rears towards the aforeſaid publick Charge of 9862. <abbr>
+                     <hi>l.</hi>
+                  </abbr> 17 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> So ſtanding upon the ſaid Regiment, as appears by the Paymaſter's own Accounts. But when theſe men, who have all along ventur'd their lives for their King and Country, come to demand their ſaid Arrears, they are told by the Paymaſters that there is nothing coming to them, for that the Regiment is already over-paid; and ſo they trump up and lay the ſaid publick Charge of 9862 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 17 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> wholly upon theſe poor men to defraud them of their Pay, which they have dearly earn'd, with the often hazard of their lives; and let thoſe that quitted the ſervice, go off, with their full Pay without bearing any part of it; To the great Diſcouragement of faithful, Loyal Men; and againſt the Ho<g ref="char:EOLhyphen"/>nour and Intereſt of his Majeſty and the Nation.</p>
+               <p>That it is not only very hard and unreaſonable to lay the whole publick Charge of the Regiment upon theſe poor men, and exempt the reſt, and all the Commiſſion'd Officers from bearing any part of it. But the ſaid publick Charge, in it ſelf, ſeems, in ſeveral particulars, to be Artificially compiled, on purpoſe to debar theſe men of their Right; they verily believing that if their Bills of Quarters were produced, it would not appear that the private Soldiers owe above 4 or 5 <abbr>
+                     <hi>l.</hi>
+                  </abbr> a man for their Quarters in <hi>Ireland,</hi> while they were in that Regiment (they being generally in Camps or Seiges while they were in the ſaid Regiment) and yet there is Charged for Quarters for the ſaid Regiment 2974<abbr>
+                     <hi>l.</hi>
+                  </abbr> 6 <abbr>
+                     <hi>s.</hi>
+                  </abbr> 4 <abbr>
+                     <hi>d.</hi>
+                  </abbr> There is alſo charg'd as paid to the ſaid Col. <hi>Ruſſel</hi> for Cloaths by him provided for the ſaid Regiment 1200 <abbr>
+                     <hi>l.</hi>
+                  </abbr> 7 <abbr>
+                     <hi>s.</hi>
+                  </abbr> when all the Cloaths he ever furniſhed the Regiment with, were only one Surtote-coat a man, made of red Bays, or ſome ſuch courſe Cloth, without any Lining, and almoſt without Buttons, worth but about 10 <abbr>s.</abbr> a Coat, being ſo very bad, that all who could otherwiſe provide themſelves, refuſed to accept of them; but if he hath taken more than he ought, he is very well able to refund it to his Majeſty, (he being extreamly rich); And what is charged for Reſpits, <hi>&amp;c.</hi> is likewiſe very extraordinary.</p>
+               <pb n="7" facs="tcp:101252:4" rendition="simple:additions"/>
+               <p>There is alſo charged to the Regiment (as aforeſaid) 140 <abbr>
+                     <hi>l.</hi>
+                  </abbr> for 500 Sheep, and 40 Bullocks pretended to be ſeiz'd by the Lieutenant Col. when he only took the ſaid Cattle, with a certain Lady, who was the Owner of them, (for whom he had a kindneſs,) into his Protection, and put the Soldiers to drive the ſaid Cattle for her; and tho they had not one Hoof of them, yet are they now charg'd with the whole Herd.</p>
+               <p>But leſt theſe matters ſhould not raiſe the ſaid Charge high enough, they have choſe rather to pay ſome of the ſaid Commiſſion'd-Officers their Arrears (in part) twice over, ſince the breaking of the ſaid Regi<g ref="char:EOLhyphen"/>ment (as appears by their own Accounts) then that thoſe men, who ſo continued in his Majeſties Service, and are unpaid, ſhould have one penny coming towards their ſaid Arrears; for which reaſons (and divers others that might be given) it may not, perhaps, be altogether un<g ref="char:EOLhyphen"/>worthy the Conſideration of this Honourable Houſe, to cauſe the ſaid Accounts (and their Vouchers too) to be Inſpected, and throughly Ex<g ref="char:EOLhyphen"/>amined.</p>
+               <p>That the ſaid Soldiers (ſo unpaid) and their ſaid Solicitor, meeting with theſe, and many more diſcouragements, after above two years con<g ref="char:EOLhyphen"/>ſtant and expenſive waiting and Attendances from Office to Office, as aforeſaid, being out of all hopes of ever obtaining Relief therein, by thoſe the proper and ordinary Courſes and Methods; did about twelve months ſince print their Caſe, and humbly preſent it to the Members of this Honourable Houſe, and had a Petition drawn and ſign'd by a conſiderable Number of the ſaid unpaid Soldiers, ready to have been preſented to the Houſe, but by the Advice of ſome Worthy Members, the ſame was put off, by reaſon the Seſſion of Parliament was then near at an end.</p>
+               <p>That their ſaid Solicitor obſerving ſome time ſince, that this Honour<g ref="char:EOLhyphen"/>able Houſe was taking into Conſideration ſome Abuſes of the like Na<g ref="char:EOLhyphen"/>ture, did, by Mr. <hi>Edward Pauncefort,</hi> give the Paymaſters to under<g ref="char:EOLhyphen"/>ſtand, That if it were not their pleaſure to let the ſaid Soldiers Ac<g ref="char:EOLhyphen"/>counts be adjuſted, and to put the matter into ſuch a method, that they might be paid their ſaid Arrears, he muſt be forced to bring it again be<g ref="char:EOLhyphen"/>fore the Houſe. To which he received for Anſwer, from the Lord <hi>Co<g ref="char:EOLhyphen"/>ningsby,</hi> by the ſaid Mr. <hi>Pauncefort,</hi> That his Lordſhip would, within a few days, ſpeak to the King, and beg of His Majeſty, that they might be paid; and ſo kept their ſaid Solicitor from proceeding any further thereupon; till at length one Captain <hi>Eben-ezer Leeds,</hi> who is Son in Law to the ſaid Col. <hi>Ruſſel,</hi> was brought out of <hi>Flanders</hi> to take upon him the management of the ſaid buſineſs; and, as it may be reaſona<g ref="char:EOLhyphen"/>bly preſumed, to keep the ſame from being brought before this Ho<g ref="char:EOLhyphen"/>nourable Houſe.</p>
+               <p>That the ſaid <hi>Joſeph Ducket,</hi> their Solicitor, altho he hath a ſufficient Authority, by Letters of Attorney, under the Hands and Seals of the ſaid Soldiers (well atteſted) to receive, and give a Diſcharge for their
+<pb n="8" facs="tcp:101252:5" rendition="simple:additions"/>ſaid Arrears; yet doth he not deſire to receive the ſame, without giv<g ref="char:EOLhyphen"/>ing good Security to render to every one his due: But he humbly con<g ref="char:EOLhyphen"/>ceives it to be very hard, that after he has ſpent 3 years time in Atten<g ref="char:EOLhyphen"/>dance upon this Occaſion, and above 100 <abbr>
+                     <hi>l.</hi>
+                  </abbr> out of his pocket (part whereof was laid out by him in relieving the meer Neceſſities of many of the Soldiers when with him, as they themſelves will teſtifie) the Bu<g ref="char:EOLhyphen"/>ſineſs ſhould now be taken out of his hand, without any Conſiderati<g ref="char:EOLhyphen"/>on, and the Soldiers not benefitted thereby.</p>
+               <p>That it hath appeared to be very diſagreeable to ſome Officers of the Army, to have any other perſons intermeddle in matters of Account be<g ref="char:EOLhyphen"/>twixt them and the Soldiers; but for want thereof, it is too much to be fear'd, that the poor Soldiers (who <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e under the danger of being call'd, and perhaps tried too for Mutineers; beſides other Severities, if they do but aſſert their Right to their Officers, in reſpect of their pay) are forced often times to put up with very lame Accounts; and to take rather what their Officers pleaſe to give them, than what they ought to pay them for their Arrears: And if ſome proper Remedy and Relief therein, was found out and provided, it may be, nothing would more conduce to the Encouragement of all the Inferior Officers and private Soldiers, in whom the ſtrength of the Army conſiſts, and on whom the Honour and Service of his Majeſty, and Safety of the Nation do con<g ref="char:EOLhyphen"/>ſequently in great meaſure depend.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>THE CASE Of the <hi>Private Soldiers,</hi> &amp;c.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
